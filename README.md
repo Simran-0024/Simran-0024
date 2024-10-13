@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Meet Jain </h1> <img align="right" src="https://png.pngtree.com/png-vector/20240506/ourmid/pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png" alt="Simran-0024" /> 
+  <h1 align="center">Hello <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" height="40" width="40" alt="meetjain1" /> I'm Simran Kukreja </h1> <img align="right" src="https://png.pngtree.com/png-vector/20240506/ourmid/pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png" alt="Simran-0024" /> 
 <div>
 <h3 align="center"> A relentless pursuer of growth and learning. Currently pursuing B.Tech CSE with specialization in Artificial Intelligence and Machine Learning, I hail from Delhi where I have completed my schooling as well. <br>
 <br>
