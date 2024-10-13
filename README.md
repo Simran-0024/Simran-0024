@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Simran-0024)
 
-- 📫 Reach me @ kukrehasimran2005@gmail.com
+- 📫 Reach me @ kukrejasimran2005@gmail.com
   
 <hr>
 
